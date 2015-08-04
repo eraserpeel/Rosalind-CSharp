@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Rosalind_Challenges.PointMutations</StartupObject>
+    <StartupObject>Rosalind_Challenges.TranslatingRNA</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,8 @@
     <Compile Include="4 - Recurrence Relations.cs" />
     <Compile Include="5 - Computing GC Content.cs" />
     <Compile Include="6 - Counting Point Mutations.cs" />
+    <Compile Include="7 - Mendels First Law.cs" />
+    <Compile Include="8 - Translating RNA to Protein.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

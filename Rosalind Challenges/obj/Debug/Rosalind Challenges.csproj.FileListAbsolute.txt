@@ -4,3 +4,9 @@ E:\CSharp\Rosalind Challenges\Rosalind Challenges\bin\Debug\Rosalind Challenges.
 E:\CSharp\Rosalind Challenges\Rosalind Challenges\obj\Debug\Rosalind Challenges.exe
 E:\CSharp\Rosalind Challenges\Rosalind Challenges\obj\Debug\Rosalind Challenges.pdb
 E:\CSharp\Rosalind Challenges\Rosalind Challenges\obj\Debug\Rosalind Challenges.csprojResolveAssemblyReference.cache
+F:\CSharp\Rosalind Challenges\Rosalind Challenges\bin\Debug\Rosalind Challenges.exe.config
+F:\CSharp\Rosalind Challenges\Rosalind Challenges\obj\Debug\Rosalind Challenges.exe
+F:\CSharp\Rosalind Challenges\Rosalind Challenges\obj\Debug\Rosalind Challenges.pdb
+F:\CSharp\Rosalind Challenges\Rosalind Challenges\bin\Debug\Rosalind Challenges.exe
+F:\CSharp\Rosalind Challenges\Rosalind Challenges\bin\Debug\Rosalind Challenges.pdb
+F:\CSharp\Rosalind Challenges\Rosalind Challenges\obj\Debug\Rosalind Challenges.csprojResolveAssemblyReference.cache

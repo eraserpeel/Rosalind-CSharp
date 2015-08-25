@@ -34,11 +34,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Rosalind_Challenges.TranslatingRNA</StartupObject>
+    <StartupObject>Rosalind_Challenges.MortalFibonacciRabbits</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,14 +47,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1 - Counting Nucleotides.cs" />
-    <Compile Include="2 - Transcribing DNA.cs" />
-    <Compile Include="3 - Complimentary Strands.cs" />
-    <Compile Include="4 - Recurrence Relations.cs" />
-    <Compile Include="5 - Computing GC Content.cs" />
-    <Compile Include="6 - Counting Point Mutations.cs" />
-    <Compile Include="7 - Mendels First Law.cs" />
-    <Compile Include="8 - Translating RNA to Protein.cs" />
+    <Compile Include="1-9\1 - Counting Nucleotides.cs" />
+    <Compile Include="10-19\10 - Consensus and Profile.cs" />
+    <Compile Include="1-9\2 - Transcribing DNA.cs" />
+    <Compile Include="1-9\3 - Complimentary Strands.cs" />
+    <Compile Include="1-9\4 - Recurrence Relations.cs" />
+    <Compile Include="1-9\5 - Computing GC Content.cs" />
+    <Compile Include="1-9\6 - Counting Point Mutations.cs" />
+    <Compile Include="1-9\7 - Mendels First Law.cs" />
+    <Compile Include="1-9\8 - Translating RNA to Protein.cs" />
+    <Compile Include="1-9\9 - Finding Motifs.cs" />
+    <Compile Include="10-19\11 - Mortal Fibonacci Rabbits.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
